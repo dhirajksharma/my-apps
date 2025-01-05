@@ -4,4 +4,4 @@ What are we doing here? Not much really just hosting some docs and other stuff r
 
 ## Privacy Policy
 
-- [Auto Wall: Dynamic Wallpapers](https://dhirajksharma.github.io/my-apps/auto-wall-privacy-policy)
+- [Auto Wall: Dynamic Wallpapers](https://dhirajksharma.github.io/dmonkeydev/auto-wall-privacy-policy)
